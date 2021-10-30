@@ -1,0 +1,11 @@
+name: Plugintwo
+version: 1.0.0
+api: 3.25.0
+main: plug\Main
+commands:
+  hammer:
+    description: Vous octroie un hammer
+  heal:
+    description: Vous heal
+  baton:
+    description: Vous donne des batons de combat
